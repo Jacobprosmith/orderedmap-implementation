@@ -1,4 +1,0 @@
-has
-have
-no
-yes
