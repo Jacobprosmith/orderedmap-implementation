@@ -1,0 +1,3 @@
+C:/ClionProjects/proj5_provided/cmake-build-debug/CMakeFiles/proj5_provided.dir
+C:/ClionProjects/proj5_provided/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ClionProjects/proj5_provided/cmake-build-debug/CMakeFiles/rebuild_cache.dir
